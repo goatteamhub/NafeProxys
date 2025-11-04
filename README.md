@@ -83,7 +83,7 @@ Average user rating: **4.8 / 5 ⭐**
 
 📧 **Support:** suporte@nafeproxys.online  
 🌐 **Website:** [https://nafeproxys.online/?refer=git](https://nafeproxys.online/?refer=git)  
-💬 **Telegram:** [@nafeproxys](https://t.me/nafeproxys)
+💬 **Telegram:** [@NafeProxys_Support](https://t.me/NafeProxys_Support)
 
 ---
 
